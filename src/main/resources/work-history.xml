@@ -1,0 +1,15 @@
+<feed>
+    <!--
+
+    You have to paste the work history in here, that should be parsed and grouped to working days.
+
+    1. login to JIRA
+    2. in your browse, create the needed XML by using:
+        https://JIRA_HOST/plugins/servlet/streams?maxResults=MAX_RESULT_COUNT&relativeLinks=true&streams=user+IS+ENCODED_EMAIL_ADDRESS&_=1498203733231
+
+        of course, substitude the variables:
+            - MAX_RESULT_COUNT (entry limit)
+            - JIRA_HOST (host of JIRA, e.g. jira.company.com)
+            - ENCODED_EMAIL_ADDRESS (e.g. max.mustermann%40company.com)
+    -->
+</feed>
